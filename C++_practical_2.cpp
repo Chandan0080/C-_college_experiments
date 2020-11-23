@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-	int x;
+	int y;
 	cout<<"Enter the number:";
-	cin>>x;
-	cout<<"You entered:" <<x <<"\n";
+	cin>>y;
+	cout<<"You entered:" <<y<<"\n";
 	}
