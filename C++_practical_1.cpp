@@ -3,8 +3,11 @@
 using namespace std;
 
 int main(){
-	int a,b;
-	cout<<"Enter two numbers: ";
-	cin>>a>>b;
-	cout<<"Sum is:" <<a+b <<"\n";
+	int num1,num2;
+	cout<<"Enter first integer numbers: ";
+	cin>>num1;
+	cout<<"Enter second integer numbers:";
+	cin>>num2;
+	cout<<"Sum is:"<<(num1+num2);
+        return 0;
 	}
